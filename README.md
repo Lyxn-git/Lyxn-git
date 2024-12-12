@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lyxn-git
-- 👀 I’m interested in game developement and procedural stuff
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on finding me a real job
+- 👀 I’m interested in game developement and procedural generation stuff
+- 🌱 I’m currently doing a PhD in chemistry
+- 💞️ I make simple tools with python to make my academic life harder.
 - 📫 How to reach me ...
 
 <!---
